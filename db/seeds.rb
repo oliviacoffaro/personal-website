@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+posts = Post.create([{ title: "My First Hackathona", Content: "This past weekend I had a right of passage as a developer....attending my first Hackathon.  I've been involved with the Girl Develop It organization for about a year and a half now.  Their vision is 'to create a network of empowered women who feel confident in their abilities to code and build beautiful web and mobile applications'."}])
