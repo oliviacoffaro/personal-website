@@ -1,1 +1,5 @@
 all da projects
+
+<% @projects.each do |project|%>
+  <a href="/projects/show<%=project.id%>"><%=Project.title%></a>
+<%end%>
