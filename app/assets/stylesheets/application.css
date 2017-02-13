@@ -14,6 +14,11 @@
  *= require_self
  */
 
+#olivia{
+  font-family: 'Caveat Brush', cursive !important;
+  font-size: 100px;
+}
+
 nav {
   background-color: black;
 }
