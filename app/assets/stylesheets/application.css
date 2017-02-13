@@ -17,3 +17,23 @@
 nav {
   background-color: black;
 }
+
+.homeimage{
+  height: 200px;
+  background-image: url("marble.jpg");
+}
+
+.pink-box{
+  height: 200px;
+  background-color: #f5e3e7;
+}
+
+.grey-box{
+  height: 200px;
+  background-color: #f3f6f6;
+}
+
+.black-box{
+  height: 200px;
+  background-color: #000;
+}
