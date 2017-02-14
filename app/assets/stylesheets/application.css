@@ -15,7 +15,7 @@
  */
 
 #olivia{
-  font-family: 'Caveat Brush', cursive !important;
+  font-family: 'Gloria Hallelujah', cursive !important;
   font-size: 100px;
 }
 
@@ -24,21 +24,44 @@ nav {
 }
 
 .homeimage{
-  height: 200px;
+  height: 250px;
   background-image: url("marble.jpg");
 }
 
 .pink-box{
-  height: 200px;
+  height: 250px;
   background-color: #f5e3e7;
+  font-family: 'Gloria Hallelujah', cursive !important;
+  text-align: center;
+  font-size: 60px;
+  color: white;
 }
 
 .grey-box{
-  height: 200px;
+  height: 250px;
   background-color: #f3f6f6;
+  font-family: 'Gloria Hallelujah', cursive !important;
+  text-align: center;
+  font-size: 60px;
+  color: white;
 }
 
 .black-box{
-  height: 200px;
+  height: 250px;
   background-color: #000;
+  font-family: 'Gloria Hallelujah', cursive !important;
+  text-align: center;
+  font-size: 60px;
+}
+
+a {
+  color: white !important;
+}
+
+a.visited{
+    color: white !important;
+}
+
+.container {
+  text-align: center;
 }
